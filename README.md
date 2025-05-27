@@ -1,4 +1,4 @@
-# Deep Learning Semester Project
+# Deep Learning Model
 
 **Bone Fracture Detection from Multi-Region X-Ray Images**
 https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data
