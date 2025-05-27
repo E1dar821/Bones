@@ -160,4 +160,3 @@ plt.show()
 
 ---
 
-**Deadline:** Submitted by 10 May 2025
